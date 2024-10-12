@@ -1,2 +1,2 @@
-# SublimeGherkinSyntax
-Gherkin syntax highlighting for Sublime Text
+# Sublime Gherkin Syntax
+Gherkin syntax highlighting for Sublime Text.
